@@ -12,5 +12,7 @@
     "chai"
   ],
   "author": "SandipOlee",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+  }
 }
